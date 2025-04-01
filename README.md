@@ -1,7 +1,5 @@
 # Gym-Management-System-Project-
 
-**Log on to for more projects!***
-
 **Database Name: gymnsb**
 
 **Developed by Naseeb Bajracharya**
